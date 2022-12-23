@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hendridg/leaderboard.git"
+    "url": "git+https://github.com/ameerhamzakhalid/leaderboard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hendridg/leaderboard/issues"
+    "url": "https://github.com/ameerhamzakhalid/leaderboard/issues"
   },
-  "homepage": "https://github.com/hendridg/leaderboard#readme",
+  "homepage": "https://github.com/ameerhamzakhalid/leaderboard#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.1",
